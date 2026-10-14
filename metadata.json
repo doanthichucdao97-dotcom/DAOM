@@ -1,0 +1,6 @@
+{
+  "name": "DAOM - Giá Vật Tư & Lập Báo Giá Xây Dựng",
+  "description": "Hệ thống tra cứu giá vật tư, tiền lương nhân công theo tỉnh thành và phần mềm lập báo giá thi công xây dựng chuyên nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
